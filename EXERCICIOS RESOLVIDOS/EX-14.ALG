@@ -1,7 +1,7 @@
 algoritmo "ex-14"
 var
-    km,dias:inteiro
-    totd,totkm,total:real
+   km,dias:inteiro
+   totd,totkm,total:real
 inicio
    escreva("Quantos KM foram percorridos? ")
    leia(km)
