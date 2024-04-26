@@ -1,4 +1,4 @@
-algoritmo "ex-46  "
+algoritmo "ex-46"
 var
    n,soma:inteiro
 inicio
