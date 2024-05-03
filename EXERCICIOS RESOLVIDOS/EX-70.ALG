@@ -1,6 +1,6 @@
 algoritmo "ex-70"
 var
-   d,c,pas1,pas2,pas3:inteiro
+   d,c,pas1,pas2:inteiro
 inicio
    c<-1
    pas1<-0
